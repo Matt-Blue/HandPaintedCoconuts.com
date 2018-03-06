@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/EasyPost/easypost-php"
+        }
+    ],
+    "require": {
+        "easypost/easypost-php": "~3.0",
+        "stripe/stripe-php" : "2.*"
+    }
+}
